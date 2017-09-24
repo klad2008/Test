@@ -4,5 +4,5 @@
 !*.h
 !*.hpp
 !*.txt
-!/resources/*.txt
+!./resources/*.txt
 
